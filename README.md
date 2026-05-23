@@ -20,5 +20,5 @@ Alongside my core studies, I explore "vibe coding" using Google's Anti-Gravity A
 - Utilizing Prompt Engineering and AI agents for rapid web development.
 - Maintaining a consistent coding streak.
 
-#### GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyajyotimishra001&show_icons=true&theme=radical)](https://github.com/dibyajyotimishra001)
+#### GitHub Streak Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyajyotimishra001&theme=radical)](https://github.com/dibyajyotimishra001)
