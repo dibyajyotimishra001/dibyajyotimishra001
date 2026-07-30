@@ -1,4 +1,4 @@
-### Hi there, I am Dibyajyoti Mishra
+### Hi there,
 
 I am a student currently on a journey to learn and master Python and C. My main focus is on building strong foundational logic and writing clean code from scratch. 
 
