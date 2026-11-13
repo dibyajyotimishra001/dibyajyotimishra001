@@ -30,12 +30,15 @@ Alongside mastering core data structures and algorithms, I leverage AI workflows
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
 </p>
 
 #### Current Focus:
 - Mastering **Full-Stack AI/ML Engineering**—bridging Python backends and ML pipelines with dynamic frontend interfaces.
-- Architecting decoupled, high-performance web applications using **Python, FastAPI, JSON, and Vanilla JS**.
-- Deepening systems programming, memory allocation, and core algorithmic logic with **C** and **Python**.
+- Architecting decoupled, high-performance web applications using **Python, FastAPI, MongoDB, and Vanilla JS**.
+- Deepening systems programming, memory allocation, and core algorithmic logic with **C++** and **Python**.
 - Building production-ready UI layouts from scratch and maintaining a relentless coding streak.
 
 #### GitHub Streak Stats:
